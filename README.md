@@ -1,2 +1,2 @@
-# DataScienceProjects
- All my DS projects from learning
+# DS-Projects
+ My learning projects 
